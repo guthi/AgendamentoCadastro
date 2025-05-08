@@ -1,4 +1,4 @@
-# AgendamentoCadastro
+# Cadastro de Usuários
 
 Um aplicativo desktop em Python para **cadastro de usuários, geração de senhas automáticas e agendamento de compromissos**. Desenvolvido utilizando o padrão **MVC (Model-View-Controller)** com interface gráfica em **Tkinter**.
 
